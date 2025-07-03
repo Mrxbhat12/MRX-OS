@@ -9,4 +9,4 @@ History and Development
 MRX OS was created by Algerian programmer MRX BHAT, who aimed to build an operating system that meets the needs of Algerian and Arab users, and reflects the capabilities of local developers in low-level software engineering. The project was launched in response to the desire to offer an alternative to well-known operating systems such as Linux and Windows, with the ambition of making MRX OS one of the most successful operating systems worldwide.
 
 #Screenshots:
-[Screenshot](https://github.com/Mrxbhat12/MRX-OS/blob/main/20250630_165342.jpg)
+[Screenshot](https://raw.githubsercontent.com/Mrxbhat12/MRX-OS/blob/main/20250630_165342.jpg)
