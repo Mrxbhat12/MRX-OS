@@ -1,0 +1,34 @@
+using Cosmos.System;
+using Cosmos.System.Graphics;
+using System;
+using System.Drawing;
+using MRX_OS.UI;
+using MRX_OS.Apps;
+
+namespace MRX_OS
+{
+    public class Kernel : Sys.Kernel
+    {
+        Canvas canvas;
+        Desktop desktop;
+
+        protected override void BeforeRun()
+        {
+            Console.WriteLine("MRX OS is booting...");
+        }
+
+        protected override void Run()
+        {
+            if (canvas == null)
+            {
+                canvas = FullScreenCanvas.GetFullScreenCanvas();
+                Canvas.SetMode(canvas.Mode);
+                desktop = new Desktop(canvas);
+                desktop.Init(); // إعداد شاشة البداية والتطبيقات
+            }
+
+            desktop.Render(); // رسم الواجهة
+            desktop.HandleInput(); // التحكم في الماوس ولوحة المفاتيح
+        }
+    }
+}

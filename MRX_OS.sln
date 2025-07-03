@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.33424.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8614233E-2797-11D2-87B2-0000F875127E}") = "MRX_OS", "MRX_OS.csproj", "{B1EB05F0-0A6C-4D30-9C3D-9F6CADD2E9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EB05F0-0A6C-4D30-9C3D-9F6CADD2E9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EB05F0-0A6C-4D30-9C3D-9F6CADD2E9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
