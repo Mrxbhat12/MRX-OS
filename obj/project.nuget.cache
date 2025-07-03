@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "nR4q4lZV0Tw=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\MRX-OS\\MRX-OS\\MRX_OS.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Cosmos.System introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes\u00A0: Cosmos Local Package Feed, Microsoft Visual Studio Offline Packages, nuget.org",
+      "projectPath": "C:\\Users\\user\\Desktop\\MRX-OS\\MRX-OS\\MRX_OS.csproj",
+      "filePath": "C:\\Users\\user\\Desktop\\MRX-OS\\MRX-OS\\MRX_OS.csproj",
+      "libraryId": "Cosmos.System",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Cosmos.System.Graphics introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes\u00A0: Cosmos Local Package Feed, Microsoft Visual Studio Offline Packages, nuget.org",
+      "projectPath": "C:\\Users\\user\\Desktop\\MRX-OS\\MRX-OS\\MRX_OS.csproj",
+      "filePath": "C:\\Users\\user\\Desktop\\MRX-OS\\MRX-OS\\MRX_OS.csproj",
+      "libraryId": "Cosmos.System.Graphics",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
