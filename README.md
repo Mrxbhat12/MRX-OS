@@ -11,3 +11,6 @@ MRX OS was created by Algerian programmer MRX BHAT, who aimed to build an operat
 # Screenshots:
 
 ![Screenshot](https://raw.githubusercontent.com/Mrxbhat12/MRX-OS/main/20250630_165342.jpg)
+
+![Screenshot](https://raw.githubusercontent.com/Mrxbhat12/MRX-OS/main/VideoCapture_20250630-164251.jpg)
+
